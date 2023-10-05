@@ -1,5 +1,5 @@
 # WEDZ-Wedding-Plannerclone.github.io
-#Teammates :
+# Teammates :
 
 (1).D Vinay Sekhar Reddy - 11712752
 

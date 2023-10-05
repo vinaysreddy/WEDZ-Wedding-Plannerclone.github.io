@@ -1,18 +1,18 @@
 # WEDZ-Wedding-Plannerclone.github.io
 #Teammates :
 
-D Vinay Sekhar Reddy - 11712752
+1. D Vinay Sekhar Reddy - 11712752
 
-Sathwika medarametla -11712718
+2. Sathwika medarametla -11712718
 
-AC Aravind Kumar - 11719427
+3. AC Aravind Kumar - 11719427
 
-Lahari sudhini 11704890
+4. Lahari sudhini 11704890
 
-Suharsha Tungala - 11712686
+5. Suharsha Tungala - 11712686
 
-Teja Vaishnavi Godavarthi - 11712897
+6. Teja Vaishnavi Godavarthi - 11712897
 
-Bandaru Sai Sri surya -11659350
+7. Bandaru Sai Sri surya -11659350
 
-Sreeja Ulligadda - 11721337 (Scrum Master)
+8. Sreeja Ulligadda - 11721337 (Scrum Master)
